@@ -1,0 +1,42 @@
+---Summary---
+**Evaluation Sheet: DevOps Course Completion**
+
+The DevOps course (Course code: 24CS2018) was completed successfully with a total mark of **40/40**. The certification completion for Kubernetes Administration-Online was obtained as per the Rubric #1. Version Control & Collaboration was certified with a score of **8/10**, and CI/CD Pipeline Implementation was successfully achieved, achieving a score of **7/8**. Containerization, Deployment & Infrastructure as Code were also completed with scores of **8/8** and **7/8** respectively.
+
+The course includes practical workshops, online quizzes, and assignments for self-study. The student demonstrated proficiency in various DevOps concepts, including cloud services, automation tools, and continuous integration/deployment practices. The final project involved developing a DevOps infrastructure using Docker and Kubernetes, showcasing the practical application of the learned skills.
+
+This evaluation reflects the course's emphasis on theoretical knowledge combined with hands-on experience, which prepares students for real-world deployment in a DevOps environment.
+
+---Q&A---
+Evaluating the students' performance in the DevOps course by reviewing their respective rubrics and obtaining their marks. Based on the provided information, here is a summary:
+
+The course "DevOps" consists of multiple components including Kubernetes administration, version control & collaboration, CI/CD pipeline implementation, containerization, deployment, infrastructure as code, and documentation. The students' scores in each component range from 10 to 40 marks out of 10.
+
+Key points:
+- ERMARS CASTAR's grades are listed with 10 being the highest mark.
+- Each Rubric has a specific maximum score that indicates how well the student performed within the scope of their assigned rubrics.
+- The students' overall "Total" score is 40, showing they covered all specified components and reached the minimum requirement.
+
+The summary provides an overview of each component's focus areas and how these align with the course objectives. It also highlights that despite the high marks obtained, further improvements in specific sections are necessary to achieve a perfect grade.
+
+---Keywords / Clauses---
+Key clauses from the Evaluation Sheet:
+
+1. **Payment Terms:**
+   - Name: ERMARS CASTAR
+   - Course code: 24CS2018
+   - Course Name: DevOps
+
+2. **Liabilities:**
+   - The course provided a comprehensive set of certifications and learning materials for a duration of 40 marks.
+
+3. **Confidentiality:**
+   - The evaluation is confidential to protect the intellectual property rights and academic integrity of the instructor, faculty, and students.
+   
+4. **Risks:**
+   - It may contain risks such as external factors or changes in course content that could affect the evaluations.
+   
+5. **Termination:**
+   - The contract can be terminated by either party at any time with notice.
+
+This summary represents the main aspects discussed in the evaluation sheet and their respective purposes within the educational context.
